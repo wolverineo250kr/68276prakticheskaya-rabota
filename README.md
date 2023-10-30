@@ -4,6 +4,9 @@
 ## Установка
 composer install
 
+## дамп базы данных
+zashchishchennaya-avtentifikatsiya-polzovatelya.sql
+
 ## Тестовые пользователи
 логин / пароль
 - LOGIN / PASSWORD
